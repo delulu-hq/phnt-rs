@@ -1,6 +1,7 @@
 ## [phnt][github.com]: Rust bindings to the [System Informer][github.com/sysinf]'s [phnt][github.com/sysinf/phnt]
 
 [![phnt GitHub Actions][github.com/ci/img]][github.com/ci]
+[![phnt on crates.io][shields.io/phnt]][crates.io]
 [![phnt on crates.io][crates.io/img]][crates.io]
 [![phnt on docs.rs][docs.rs/img]][docs.rs]
 
@@ -53,6 +54,7 @@ Extensions to the bindings with additional utilities
 [crates.io]:                https://crates.io/crates/phnt
 [crates.io/bindgen]:        https://crates.io/crates/bindgen
 [crates.io/img]:            https://img.shields.io/crates/v/phnt.svg
+[shields.io/phnt]:          https://img.shields.io/crates/d/phnt.svg
 
 [docs.rs]:                  https://docs.rs/phnt
 [docs.rs/img]:              https://docs.rs/phnt/badge.svg
